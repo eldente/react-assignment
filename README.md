@@ -2,7 +2,7 @@
 ### By _**Ivo Zubcic**_
 
 ## Technologies Used
-*Javascript
+*_Javascript_
 *Typescript
 *HTML
 *CSS
