@@ -1,6 +1,13 @@
 # React Assignment Readme
+### By _**{Ivo Zubcic}**_
 
-## Project initialisation
+## Technologies Used
+*Javascript
+*Typescript
+*HTML
+*CSS
+
+##Setup
 
 npm i
 
