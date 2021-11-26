@@ -3,4 +3,5 @@
 ## Project initialisation
 
 npm i
+
 npm start
