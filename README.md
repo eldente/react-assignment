@@ -6,6 +6,7 @@
 - Typescript
 - HTML
 - CSS
+- Bootstrap
 
 ## Setup
 ```
