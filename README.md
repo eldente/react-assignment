@@ -1,5 +1,5 @@
 # React Assignment Readme
-### By _**{Ivo Zubcic}**_
+### By _**Ivo Zubcic**_
 
 ## Technologies Used
 *Javascript
