@@ -2,13 +2,13 @@
 ### By _**Ivo Zubcic**_
 
 ## Technologies Used
-*_Javascript_
-*Typescript
-*HTML
-*CSS
+- Javascript
+- Typescript
+- HTML
+- CSS
 
 ##Setup
-
+```
 npm i
-
 npm start
+```
